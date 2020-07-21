@@ -1,0 +1,13 @@
+1. python is an object oriented , high-level and interpreted language.
+   we can install free anaconda distribution, it can install on any os it has many libraries like jupyter notebook
+   steps for jupyter notebook
+   1. open anaconda navigator
+   2. launch jupyter notebook
+   this will launch jupyter notebook now one can write their codes by creating new project. One can also launch spyder.
+2.  Code environment where we can write and execute our codes, there are 3 code environments:
+     1.Text Editors
+        general editors which can work with a variety of files.ex- visual studio code and atom
+     2.Full IDEs
+       development environment only for python, offers lots of extra functionality. ex- pycharm, spyer
+     3.Notebook Environment 
+        we can see input and output next to each other, support in_line markdown notes, visualizations, videos and more. ex- jupyter notebook
